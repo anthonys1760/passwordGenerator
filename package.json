@@ -1,0 +1,26 @@
+{
+  "name": "passwordgenerator",
+  "version": "1.0.0",
+  "description": "Simple password Generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonys1760/passwordGenerator.git"
+  },
+  "author": "Anthony Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonys1760/passwordGenerator/issues"
+  },
+  "homepage": "https://github.com/anthonys1760/passwordGenerator#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "clipboardy": "^3.0.0",
+    "commander": "^8.3.0"
+  }
+}
